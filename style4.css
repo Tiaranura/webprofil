@@ -3,8 +3,8 @@ body {
 }
 .lb1{
     position: absolute;
-    width: 1340px;
-    height: 671px;
+    width: 1366px;
+    height: 690px;
     left: 0px;
     top: 0px;
 
@@ -92,7 +92,7 @@ mix-blend-mode: hard-light;
     height: 63px;
 
     top: 170px;
-    left: 400px;
+    left: 550px;
     font-style: normal;
     font-weight: normal;
     font-size: 65px;
@@ -205,7 +205,7 @@ mix-blend-mode: hard-light;
 
 position: absolute;
 top: 710px;
-left: 230px;
+left: 225px;
 
 font-style: normal;
 font-weight: normal;
@@ -241,9 +241,9 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 .kata8{
     position: absolute;
 
-top: 1527px;
-    left: 70px;
-    right: 70px;
+top: 1470px;
+    left: 198px;
+    right: 198px;
 
 font-style: normal;
 font-weight: normal;
@@ -271,10 +271,11 @@ border-radius: 50px 50px 0px 0px;
 width: 329px;
 height: 0px;
 left: 70px;
-top: 1343.24px;
+top: 1300px;
 
 border: 20px solid #9C7A97;
 transform: rotate(-179.78deg);
+border-radius: 50px 50px 50px 50px;
 
 }
 .line1{
@@ -282,10 +283,11 @@ transform: rotate(-179.78deg);
 width: 587.01px;
 height: 0px;
 left: 609px;
-top: 1446px;
+top: 1400px;
 
 border: 20px solid #9C7A97;
 transform: rotate(0.29deg);
+border-radius: 50px 50px 50px 50px;
 }
 
 .copy{

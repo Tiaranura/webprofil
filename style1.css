@@ -3,12 +3,11 @@ body {
 }
 .lb1{
     position: absolute;
-    width: 1340px;
-    height: 671px;
+    width: 1366px;
+    height: 687px;
     left: 0px;
     top: 0px;
 
-    background: url(img/10.png);
 }
 .lb2{
     position: absolute;
@@ -92,7 +91,7 @@ mix-blend-mode: hard-light;
     height: 63px;
 
     top: 170px;
-    left: 400px;
+    left: 550px;
     font-style: normal;
     font-weight: normal;
     font-size: 65px;
@@ -112,7 +111,7 @@ mix-blend-mode: hard-light;
     height: 63px;
 
     top: 250px;
-    left: 450px;
+    left: 520px;
     font-style: normal;
     font-weight: normal;
     font-size: 45px;
@@ -204,11 +203,11 @@ mix-blend-mode: hard-light;
     position: absolute;
     width: 639px;
     height: 668px;
-    left: 0px;
-    top: 671px;
+    left: 25px;
+    top: 716px;
 
     background: url(img/7.jpg);
-    border-radius: 0px 0px 50px 0px;
+    border-radius: 0px 50px 50px 0px;
 }
 .nama{
     position: absolute;
@@ -552,7 +551,7 @@ top: 1080px;
     position: absolute;
     
     top: 1600px;
-    left: 300px;
+    left: 200px;
 
     font-style: normal;
     font-weight: normal;
@@ -570,7 +569,7 @@ top: 1080px;
     position: absolute;
     
     top: 1700px;
-    left: 300px;
+    left: 200px;
 
     font-style: normal;
     font-weight: normal;
@@ -588,7 +587,7 @@ top: 1080px;
     position: absolute;
     
     top: 1840px;
-    left: 300px;
+    left: 200px;
 
     font-style: normal;
     font-weight: normal;
